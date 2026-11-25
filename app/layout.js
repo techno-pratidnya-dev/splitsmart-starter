@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Expense Tracker',
+  title: 'Expence Traker',
   description: 'Split expenses with your group — the easy way.',
 };
 

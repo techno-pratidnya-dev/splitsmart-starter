@@ -59,7 +59,7 @@ export default function Home() {
         <div style={styles.header}>
           <div style={styles.brand}>
             <div style={styles.logo}>S</div>
-            <div style={styles.title}>Expense Tracker</div>
+            <div style={styles.title}>Expence Traker</div>
           </div>
           <div style={styles.groupPill}>My Group</div>
         </div>
@@ -146,8 +146,8 @@ const styles = {
   },
   addBtn: {
     flex: 'none', width: 48, borderRadius: 14, border: 'none', color: '#fff', fontSize: 24, fontWeight: 700,
-    background: '#124CA8',
-    boxShadow: '0 10px 22px -8px rgba(18,76,168,.65)',
+    background: '#082B65',
+    boxShadow: '0 10px 22px -8px rgba(8,43,101,.65)',
   },
   list: { display: 'flex', flexDirection: 'column', gap: 10, minHeight: 60 },
   empty: { color: 'var(--muted)', fontSize: 14, textAlign: 'center', padding: '24px 0' },
